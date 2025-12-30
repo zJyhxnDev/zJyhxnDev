@@ -19,7 +19,9 @@
 
 ### Sobre mí
 
-- **Actualmente trabajando en:** Desarrollo de plugins avanzados para servidores de Minecraft (Spigot/Paper).
+- **Actualmente trabajando en:**
+  - Desarrollo de plugins avanzados para servidores de Minecraft (Spigot/Paper).
+  - Desarrollo de aplicaciones web para empresas y clientes.
 - **Aprendiendo:** Arquitecturas de microservicios y Next.js para interfaces web modernas.
 - **Enfoque:** Código limpio, optimizado y escalable.
 
