@@ -4,7 +4,7 @@
   # Hola, soy Johannes 👋
   
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Desarrollador+independiente)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Desarrollador+Independiente)](https://git.io/typing-svg)
 
   <p>
     <em>¡Bienvenido a mi perfil de GitHub!</em>
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 <div align="center">
 
@@ -52,5 +52,5 @@
 ---
 
 <div align="center">
-  <sub>Tosfey - zSasly - zJyhxnDev</sub>
+  <sub>zSasly - zJyhxnDev</sub>
 </div>
