@@ -17,11 +17,11 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 🔭 **Actualmente trabajando en:** Desarrollo de plugins avanzados para servidores de Minecraft (Spigot/Paper).
-- 🌱 **Aprendiendo:** Arquitecturas de microservicios y Next.js para interfaces web modernas.
-- ⚡ **Enfoque:** Código limpio, optimizado y escalable.
+- **Actualmente trabajando en:** Desarrollo de plugins avanzados para servidores de Minecraft (Spigot/Paper).
+- **Aprendiendo:** Arquitecturas de microservicios y Next.js para interfaces web modernas.
+- **Enfoque:** Código limpio, optimizado y escalable.
 
 ---
 
